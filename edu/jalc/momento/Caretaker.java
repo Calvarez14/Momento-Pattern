@@ -1,9 +1,9 @@
 package edu.jalc.momento;
 
-public class Caretaker{
+public class Caretaker extends Originator{
 
-  ArrayList <momento> = new ArrayList();
+  ArrayList <message> = new ArrayList();
 
-  events.add(Caretaker)
+
 
 }
